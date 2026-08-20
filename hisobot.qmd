@@ -23,7 +23,6 @@ Natija 30 chiqadi
 5*5
 ```
 
-Natija 25 bo'lishi kerak ekan
 
 Second try github
 #how to see all the changes in the file, how to pull the changes from the remote repository, and how to push the changes to the remote repository. 
