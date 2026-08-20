@@ -13,3 +13,5 @@ Bu hujjat Quarto hujjat hisoblanadi!!!
 ```{r}
 5*5
 ```
+
+Natija 25 bo'lishi kerak ekan
