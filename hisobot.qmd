@@ -5,11 +5,51 @@ format: html
 ---
 
 ```{r echo=FALSE}
-1+1
+1+2
 ```
 
-Bu hujjat Quarto hujjat hisoblanadi!!!
 
 ```{r}
-5*5
+library(readxl)
+library(ggplot2)
+
+list.files()
+```
+
+```{r}
+setwd("C:/Users/Lenovo/Documents/GitHub/ISlab_Subhonov_seminars_2026_august")
+```
+
+```{r}
+list.files()
+```
+
+```{r}
+data <- read.csv("population.csv")
+
+View(data)
+```
+
+```{r}
+ggplot(data, aes(x = Viloyat, y = X2010)) +
+  geom_col() +
+  labs(
+    title = "Aholi soni 2010 yil",
+    x = "Viloyat",
+    y = "Aholi soni"
+  ) +
+  theme_minimal()
+```
+
+
+```{r}
+ggplot(data[-1, ], aes(x = reorder(Viloyat, X2010), y = X2010)) +
+  geom_col() +
+  coord_flip() +
+  labs(
+    title = "Aholi soni 2010 yil",
+    x = "Viloyat",
+    y = "Aholi soni"
+  ) +
+  theme_minimal()
 ```
