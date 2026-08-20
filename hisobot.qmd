@@ -1,0 +1,15 @@
+---
+title: Hisobot
+author: Subhonov Muhammad
+format: html
+---
+
+```{r echo=FALSE}
+1+1
+```
+
+Bu hujjat Quarto hujjat hisoblanadi!!!
+
+```{r}
+
+```
