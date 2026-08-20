@@ -37,8 +37,7 @@ Second try github
 and here one more time trying to do some changes
 >>>>>>> d3a5870e62e98d61a638410507c74771cb501814
 =======
-6*6
-```
+
 
 Natija 36 chiqadi
 >>>>>>> 2c1d4a51468edb4814e77597b63a5bb90e5ea72d
