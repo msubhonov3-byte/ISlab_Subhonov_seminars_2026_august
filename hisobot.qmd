@@ -11,10 +11,12 @@ format: html
 Bu hujjat Quarto hujjat hisoblanadi!!!
 
 ```{r}
-<<<<<<< HEAD
 7*7
+5*6
 ```
 1-topshiriq
+
+Natija 30 chiqadi
 =======
 6*6
 ```
