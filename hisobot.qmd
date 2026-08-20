@@ -43,6 +43,7 @@ ggplot(data, aes(x = Viloyat, y = X2010)) +
 
 
 ```{r}
+6*6
 ggplot(data[-1, ], aes(x = reorder(Viloyat, X2010), y = X2010)) +
   geom_col() +
   coord_flip() +
@@ -53,3 +54,5 @@ ggplot(data[-1, ], aes(x = reorder(Viloyat, X2010), y = X2010)) +
   ) +
   theme_minimal()
 ```
+
+Natija 36 chiqadi
