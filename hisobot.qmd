@@ -13,10 +13,13 @@ Bu hujjat Quarto hujjat hisoblanadi!!!
 ```{r}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 5*6
 ```
 Natija 30 chiqadi
 =======
+=======
+>>>>>>> d3a5870e62e98d61a638410507c74771cb501814
 5*5
 ```
 
@@ -26,7 +29,13 @@ Second try github
 #how to see all the changes in the file, how to pull the changes from the remote repository, and how to push the changes to the remote repository. 
 
 **now I am going to add some more text to the file and then commit the changes to the local repository. After that, I will push the changes to the remote repository on GitHub.** perfectly AI written
+<<<<<<< HEAD
 >>>>>>> fe1331a44ee9a3d76a32b0f73bbd3e718e48b94c
+=======
+
+
+and here one more time trying to do some changes
+>>>>>>> d3a5870e62e98d61a638410507c74771cb501814
 =======
 6*6
 ```
