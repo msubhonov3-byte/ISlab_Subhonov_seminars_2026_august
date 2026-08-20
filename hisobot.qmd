@@ -12,9 +12,21 @@ Bu hujjat Quarto hujjat hisoblanadi!!!
 
 ```{r}
 <<<<<<< HEAD
+<<<<<<< HEAD
 5*6
 ```
 Natija 30 chiqadi
+=======
+5*5
+```
+
+Natija 25 bo'lishi kerak ekan
+
+Second try github
+#how to see all the changes in the file, how to pull the changes from the remote repository, and how to push the changes to the remote repository. 
+
+**now I am going to add some more text to the file and then commit the changes to the local repository. After that, I will push the changes to the remote repository on GitHub.** perfectly AI written
+>>>>>>> fe1331a44ee9a3d76a32b0f73bbd3e718e48b94c
 =======
 6*6
 ```
