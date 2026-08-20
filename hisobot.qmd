@@ -65,4 +65,3 @@ ggplot(data[-1, ], aes(x = reorder(Viloyat, X2010), y = X2010)) +
 ```
 
 Natija 36 chiqadi
->>>>>>> 2c1d4a51468edb4814e77597b63a5bb90e5ea72d
