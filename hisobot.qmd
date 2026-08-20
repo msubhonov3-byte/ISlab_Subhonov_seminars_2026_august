@@ -11,6 +11,13 @@ format: html
 Bu hujjat Quarto hujjat hisoblanadi!!!
 
 ```{r}
+<<<<<<< HEAD
 7*7
 ```
 1-topshiriq
+=======
+6*6
+```
+
+Natija 36 chiqadi
+>>>>>>> 2c1d4a51468edb4814e77597b63a5bb90e5ea72d
