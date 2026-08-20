@@ -43,6 +43,13 @@ ggplot(data, aes(x = Viloyat, y = X2010)) +
 
 
 ```{r}
+7*7
+5*6
+```
+1-topshiriq
+
+Natija 30 chiqadi
+=======
 6*6
 ggplot(data[-1, ], aes(x = reorder(Viloyat, X2010), y = X2010)) +
   geom_col() +
@@ -56,3 +63,4 @@ ggplot(data[-1, ], aes(x = reorder(Viloyat, X2010), y = X2010)) +
 ```
 
 Natija 36 chiqadi
+>>>>>>> 2c1d4a51468edb4814e77597b63a5bb90e5ea72d
