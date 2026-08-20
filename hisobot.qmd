@@ -43,7 +43,9 @@ ggplot(data, aes(x = Viloyat, y = X2010)) +
 
 
 ```{r}
-7*7
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 5*6
 ```
 1-topshiriq
