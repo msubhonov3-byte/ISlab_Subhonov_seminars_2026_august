@@ -11,5 +11,6 @@ format: html
 Bu hujjat Quarto hujjat hisoblanadi!!!
 
 ```{r}
-5*5
+7*7
 ```
+1-topshiriq
